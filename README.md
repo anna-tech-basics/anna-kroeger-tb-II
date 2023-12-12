@@ -1,2 +1,2 @@
-# tech_basics_2
-lecture code tech basics 2
+# Tech Basics II
+This is the repo for lecture code for tech basics 2.
