@@ -1,4 +1,4 @@
-# Exam Project Tech Basics II
+# Anna's Tech Basics II Exam Project
 This repository contains my exam project code and respective report for Tech Basics 2. 
 I have decided to build upon my project "Gym Girls" from Tech Basics 1 which can be found under https://github.com/anna-tech-basics/exam-project-tech-basics-1. 
 
