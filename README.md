@@ -23,7 +23,9 @@ Have fun clicking through the options and exploring what GymGirls has to offer:
 
 ### Connect with GymGirls
 Get to know Lisa, Sarah and Lily as they have already registered as GymGirls :)
-<img width="160" alt="Lisa_B" src="https://github.com/anna-tech-basics/anna-kroeger-tb-II/assets/150140177/f116ded7-d568-42f7-a3cd-94718b022eb7"> <img width="160" alt="Sarah_M" src="https://github.com/anna-tech-basics/anna-kroeger-tb-II/assets/150140177/96267fb0-5049-4f9b-9fab-6eb3d3b7870f">
+
+<img width="160" alt="Lisa_B" src="https://github.com/anna-tech-basics/anna-kroeger-tb-II/assets/150140177/f116ded7-d568-42f7-a3cd-94718b022eb7"> <img width="160" alt="Sarah_M" src="https://github.com/anna-tech-basics/anna-kroeger-tb-II/assets/150140177/96267fb0-5049-4f9b-9fab-6eb3d3b7870f"> <img width="441" alt="Lily_S" src="https://github.com/anna-tech-basics/anna-kroeger-tb-II/assets/150140177/53527858-ecd3-46b8-b28b-8dcddc2d828f">
+
 
 
 
