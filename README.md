@@ -22,6 +22,6 @@ Have fun clicking through the options and exploring what GymGirls has to offer:
 ## Profiles 
 
 ### Connect with GymGirls
-Get to know Lisa, Sarah and Lily as they have already registered as GymGirls 
+Get to know Lisa, Sarah and Lily as they have already registered as GymGirls :)
 
 ### 👤 Make Sure to Fill out your own form in your Profile !!!
