@@ -5,7 +5,7 @@ I have decided to build upon my project "Gym Girls" from Tech Basics 1 which can
 Therefore this is the finalized version of the MVP for an application to unite women in fitness:
 
 ## How to navigate the MVP
-When you run the code you are greeted with a login frame. Here you can put in a username and password. 
+When you run app.py you are greeted with a login frame. Here you can put in a username and password. 
 
 Once you have completed setting up you reach the central hub of GymGirls.
 
