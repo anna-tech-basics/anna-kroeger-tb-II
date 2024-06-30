@@ -9,5 +9,6 @@ When you run the code you are greeted with a login frame. Here you can put in a 
 
 Once you have completed setting up you reach the central hub of GymGirls 
 
-<img width="433" alt="Bildschirmfoto 2024-06-30 um 12 16 30" src="https://github.com/anna-tech-basics/anna-kroeger-tb-II/assets/150140177/c9eed564-8ccf-42bd-917e-7e57f83eed9c">
 
+
+<img width="432" alt="Bildschirmfoto 2024-06-30 um 12 19 35" src="https://github.com/anna-tech-basics/anna-kroeger-tb-II/assets/150140177/385ea712-1949-4819-a086-ae8a5cd4d19f">
